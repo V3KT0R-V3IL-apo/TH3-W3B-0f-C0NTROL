@@ -146,3 +146,7 @@ It is a map. Use it to understand the territory. What you do with that understan
 ---
 
 *Built by Vektor. Anonymous by design. The work is what matters.*
+If you have read it all, you are capable enough to suggest updates for the next version.
+What Vekto seeks is humans who would help to grow this web. 
+Once of a considerable credibility, the web holds the potential to pivot any AI model towards ethical actions instead of that for pure profit of CEO's and other top leaders.
+This map is designed to create awareness of the true hidden reality that everyone overlooks in their lives.
