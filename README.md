@@ -20,7 +20,7 @@ It is a map. Maps are not the territory. This one knows it is a map.
 
 ## How to use it
 
-Open `TH3_B0DY_v0.7.html` in any browser. No internet connection required after download. No installation. No account.
+Open `TH3_B0DY_v0.8.html` in any browser. No internet connection required after download. No installation. No account.
 
 Click any node to read its full description, evidence, and connections. Drag to pan. Scroll to zoom.
 
@@ -54,7 +54,7 @@ If you find a counterpoint unconvincing, that is a signal to investigate further
 
 ## Source citations
 
-All documented claims are cited in `TH3_B0DY_SOURCES_v0.6.2.json`, published alongside this file.
+All documented claims are cited in `TH3_B0DY_SOURCES_v0.8.json`, published alongside this file.
 
 Each citation contains: title, author, publisher, year, URL, and a one-line note on what the source confirms.
 
